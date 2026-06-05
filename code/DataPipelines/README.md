@@ -1,0 +1,1 @@
+This directory contains dynamic pipeline definitions for Synapse and Microsoft Fabric migration, including parameterized pipelines for ingestion and transformation.
