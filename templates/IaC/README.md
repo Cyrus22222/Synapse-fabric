@@ -1,0 +1,1 @@
+Use this folder for Infrastructure as Code templates (Terraform or Bicep) to automate Microsoft Fabric resource provisioning.
